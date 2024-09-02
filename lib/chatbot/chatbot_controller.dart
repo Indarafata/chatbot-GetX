@@ -1,4 +1,4 @@
-import 'package:chatbot/chatbot/service/chatbot_service.dart';
+import 'package:chatbot/service/chatbot_service.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:chatbot/model/chatbot_model.dart';
